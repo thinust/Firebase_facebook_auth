@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FirebaseSignInWithFacebook</string>
+
+    <string name="facebook_app_id">1357764668099275</string>
+    <string name="fb_login_protocol_scheme">fb1357764668099275</string>
+    <string name="facebook_client_token">64e1fa42bdc0101d1d50c6d932d6be35</string>
+
+
+</resources>
